@@ -63,10 +63,9 @@ Create a minimal, lightweight open-source alternative to Chatbase that allows us
 - Simple JWT authentication
 
 #### 3.2 Frontend
-- React via CDN (no npm/build tools required)
-- Vanilla CSS
-- Minimal JavaScript
-- Single HTML file entry point when possible
+- React with minimal dependencies
+- CSS with minimal framework
+- Essential JavaScript only
 
 #### 3.3 AI Integration
 - OpenAI API connection
@@ -84,7 +83,6 @@ Create a minimal, lightweight open-source alternative to Chatbase that allows us
 ### 6. Deployment
 - Simple Docker setup
 - Basic environment configuration
-- Static file serving for frontend
 
 ### 7. Documentation
 - Installation guide
